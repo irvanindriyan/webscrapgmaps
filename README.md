@@ -1,5 +1,5 @@
 # Web Scrap
-Google Maps with Python
+Google Maps Locations Scrap with Python
 
 #Required
 - from selenium import webdriver
